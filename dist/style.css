@@ -1,0 +1,35 @@
+.grid-stack-item-content {
+    opacity: 0.9;
+    background-repeat: no-repeat;
+    cursor: -webkit-grab;
+    cursor: -moz-grab;
+}
+
+.carrierHorizontal{
+    background-image: url('submarinehor.png');
+    background-size: contain;
+}
+
+.carrierHorizontalRed{
+    background-image: url('submarinehor_red.png');
+    background-size: 100% 100%;
+    width: 45px !important;
+}
+
+.patroalHorizontal{
+    background-image: url('patrolboathor.png');
+    background-size: contain;
+}
+
+.patroalHorizontalRed{
+    background-image: url('patrolboathor_red.png');
+    background-size: 100% 100%;
+    width: 45px !important;
+}
+
+
+.grid-ships{
+    border: solid black;
+    height: 450px;
+    width: 450px;
+}
